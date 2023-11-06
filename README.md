@@ -28,8 +28,9 @@ Here are some ideas to get you started:
 </p>
 
 <p align = "center">
-  <img src = "https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sara-totah" alt = "SaraTotah's Contribution" width = 400 >
-  <img src = "https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sara-totah&count_private=true&theme=default&hide_border=true" alt = "ShahdDaghash's Rating" width = 400 >
+
+  <img src = "https://github-readme-stats.vercel.app/api?username=sara-totah&count_private=true&theme=default&hide_border=true" alt = "SaraTotah's Contribution" width = 400 >
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=sara-totah&count_private=true&theme=default&hide_border=true" alt = "SaraTotah's Rating" width = 400 >
 
 </p>
 
